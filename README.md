@@ -1,2 +1,2 @@
-#I am Mohan Kumar 
-Currently Persuing B-Tech (CSE)
+#I am Mohan Kumar # 
+Currently Pursuing B-Tech (CSE)
